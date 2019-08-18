@@ -191,19 +191,18 @@
                     <ul class="timeline">
                         <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
                             <div class="timeline-arrow"></div>
-                            <h2 class="h5 mb-0">Bitcointalk announcement, 4chan, official launch!</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>21 March, 2019</span>
-                            <p class="text-small mt-2 font-weight-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper, et elementum lorem ornare. Maecenas placerat facilisis mollis. Duis sagittis ligula in sodales vehicula....</p>
+                            <h2 class="h5 mb-0">Bitcointalk announcement, 4chan, official launch!</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>9:00PM UTC - 18t August, 2019</span>
+                            <p class="text-small mt-2 font-weight-light">Officially launched and now open to public. It's a community focused coin so every help, ideas or advice are welcome!</p>
                         </li>
                         <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
                             <div class="timeline-arrow"></div>
-                            <h2 class="h5 mb-0">Adjust minimum mixin values, remove dust.</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>5 April, 2019</span>
-                            <p class="text-small mt-2 font-weight-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper.</p>
-                            <p class="text-small mt-2 font-weight-light">Libero expedita explicabo eius fugiat quia aspernatur autem laudantium error architecto recusandae natus sapiente sit nam eaque, consectetur porro molestiae ipsam! Deleniti.</p>
+                            <h2 class="h5 mb-0">Adjust minimum mixin values, remove dust.</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>18 August, 2019</span>
+                            <p class="text-small mt-2 font-weight-light">Reached block 5000, adjusted some parameters with a soft work at block height 5000.</p>
                         </li>
                         <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
                             <div class="timeline-arrow"></div>
-                            <h2 class="h5 mb-0">GUI wallet + integrations</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>18 August, 2019</span>
-                            <p class="text-small mt-2 font-weight-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper, et elementum lorem ornare. Maecenas placerat facilisis mollis. Duis sagittis ligula in sodales vehicula....</p>
+                            <h2 class="h5 mb-0">GUI wallet + integrations</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>16 August, 2019</span>
+                            <p class="text-small mt-2 font-weight-light">Download the latest GUI wallet <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases">here</a>.</p>
                         </li>
                         <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
                             <div class="timeline-arrow"></div>
