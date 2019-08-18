@@ -12,12 +12,12 @@ class Krypton extends Controller
     public function index()
     {
 
-        $explorer = new Explorer();
+        //$explorer = new Explorer();
 
         return view('krypton.index')->with(
             [
-                'current_supply' => $explorer->_getSupply(),
-                'total_supply' => $explorer->_getTotalSupply()
+                'current_supply' => '',
+                'total_supply' => ''
             ]
         );
     }

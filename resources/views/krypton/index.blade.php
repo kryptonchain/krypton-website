@@ -176,11 +176,6 @@
                     </h1>
                     <h2>Krypton</h2>
                     <p class="lead mb-0">Krypton is a community-driven, privacy first cryptocurrency with a main focus on decentralization, scalability and fungibility.</p>
-                    <p><strong>
-                            Current circulating supply {{ $current_supply }} <br />
-                            Total supply {{ $total_supply }}
-                        </strong>
-                    </p>
                 </div>
             </div><!-- End -->
 
@@ -197,12 +192,14 @@
                         <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
                             <div class="timeline-arrow"></div>
                             <h2 class="h5 mb-0">Adjust minimum mixin values, remove dust.</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>18 August, 2019</span>
-                            <p class="text-small mt-2 font-weight-light">Reached block 5000, adjusted some parameters with a soft work at block height 5000.</p>
+                            <p class="text-small mt-2 font-weight-light">Reached block 5000, adjusted some parameters with a soft fork at block height 5000.</p>
                         </li>
                         <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
                             <div class="timeline-arrow"></div>
                             <h2 class="h5 mb-0">GUI wallet + integrations</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>16 August, 2019</span>
-                            <p class="text-small mt-2 font-weight-light">Download the latest GUI wallet <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases">here</a>.</p>
+                            <p class="text-small mt-2 font-weight-light">Check the code on github <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/tag/0.5">here</a>.</p>
+                            <p class="text-small mt-2 font-weight-light">Download the latest Windows wallet <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/download/0.5/Krypton-GUI-0.5.zip.windows.zip">here</a>.</p>
+                            <p class="text-small mt-2 font-weight-light">Download the latest Linux/Ubuntu wallet <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/download/0.5/Krypton-GUI-0.5.ubuntu.tar.gz">here</a>.</p>
                         </li>
                         <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
                             <div class="timeline-arrow"></div>
