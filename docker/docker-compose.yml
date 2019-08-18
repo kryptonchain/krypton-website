@@ -1,0 +1,42 @@
+version: '3'
+services:
+
+  krypton_app:
+    container_name: krypton_app
+    build:
+      context: .
+      dockerfile: krypton.dockerfile
+    working_dir: /var/www
+    environment:
+        XDEBUG_CONFIG: remote_host=host.docker.internal remote_port=9000 remote_enable=1
+    ports:
+      - 8000:80
+    volumes:
+      - ./..:/var/www/krypton
+    environment:
+      - "DB_PORT=3306"
+      - "DB_HOST=database"
+
+  database:
+    container_name: krypton_mysql
+    image: mysql:5.7
+    volumes:
+      - dbdata:/var/lib/mysql
+    environment:
+      - "MYSQL_DATABASE=krypton"
+      - "MYSQL_USER=krypton"
+      - "MYSQL_PASSWORD=root"
+      - "MYSQL_ROOT_PASSWORD=root"
+    ports:
+      - "33061:3306"
+
+  krypton_composer:
+    container_name: krypton_composer
+    restart: 'no'
+    image: composer
+    command: install --ignore-platform-reqs
+    volumes:
+      - ./..:/app
+
+volumes:
+  dbdata:
