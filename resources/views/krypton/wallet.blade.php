@@ -173,9 +173,9 @@
                 <div class="col-lg-8 mx-auto">
                     <h2>Get Krypton Wallet</h2>
                     <p class="lead mb-0">Krypton is a community-driven, privacy first cryptocurrency with a main focus on decentralization, scalability and fungibility.</p>
-                    <p>Check the code on github <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/tag/0.5">here</a>.</p>
-                    <p>Download the latest Windows wallet <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/download/0.5/Krypton-GUI-0.5.zip.windows.zip">here</a>.</p>
-                    <p>Download the latest Linux/Ubuntu wallet <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/download/0.5/Krypton-GUI-0.5.ubuntu.tar.gz">here</a>.</p>
+                    <p class="bg-white text-gray">Check the code on github <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/tag/0.5">here</a>.</p>
+                    <p class="bg-white text-gray">Download the latest Windows wallet <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/download/0.5/Krypton-GUI-0.5.zip.windows.zip">here</a>.</p>
+                    <p class="bg-white text-gray">Download the latest Linux/Ubuntu wallet <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/download/0.5/Krypton-GUI-0.5.ubuntu.tar.gz">here</a>.</p>
                 </div>
             </div><!-- End -->
 

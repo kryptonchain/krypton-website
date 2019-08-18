@@ -187,7 +187,7 @@
                         <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
                             <div class="timeline-arrow"></div>
                             <h2 class="h5 mb-0">Bitcointalk announcement, 4chan, official launch!</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>9:00PM UTC - 18t August, 2019</span>
-                            <p class="text-small mt-2 font-weight-light">Officially launched and now open to public. It's a community focused coin so every help, ideas or advice are welcome!</p>
+                            <p class="text-small mt-2 font-weight-light">Officially launched and now open to public.(<a href="https://bitcointalk.org/index.php?topic=5176752.msg52199896" target="_blank">BCT announcement</a>). It's a community focused coin so every help, ideas or advice are welcome!</p>
                         </li>
                         <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
                             <div class="timeline-arrow"></div>
