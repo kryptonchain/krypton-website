@@ -21,4 +21,18 @@ class Krypton extends Controller
             ]
         );
     }
+
+    public function mining()
+    {
+        return view('krypton.mining')->with(
+            []
+        );
+    }
+
+    public function wallet()
+    {
+        return view('krypton.wallet')->with(
+            []
+        );
+    }
 }

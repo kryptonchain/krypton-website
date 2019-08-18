@@ -11,4 +11,6 @@
 |
 */
 
-Route::get('/', 'Krypton@index');
+Route::get('/', 'Krypton@index')->name('krypton.index');
+Route::get('/wallet', 'Krypton@wallet')->name('krypton.wallet');
+Route::get('/mining', 'Krypton@mining')->name('krypton.mining');

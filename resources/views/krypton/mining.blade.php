@@ -171,46 +171,42 @@
             <!-- For demo purpose -->
             <div class="row text-center text-white mb-5">
                 <div class="col-lg-8 mx-auto">
-                    <h1 class="display-5">
-                        <img src="/img/logo2.png" width="150" class="d-inline-block align-top" alt="">
-                    </h1>
-                    <h2>Krypton</h2>
-                    <p class="lead mb-0">Krypton is a community-driven, privacy first cryptocurrency with a main focus on decentralization, scalability and fungibility.</p>
-                    <p><strong>
-                            Current circulating supply {{ $current_supply }} <br />
-                            Total supply {{ $total_supply }}
-                        </strong>
+                    <h2>Mining</h2>
+                    <p>
+                        <ul class="timeline">
+                            <li class="bg-white">
+                                <span class="text-gray">Block Time: 60 seconds</span>
+                            </li>
+                            <li class="bg-white">
+                                <span class="text-gray">Block Reward: 20 ZOD (decreasing with every block, no halving)</span>
+                            </li>
+                            <li class="bg-white">
+                                <span class="text-gray">Max supply: 88 millions</span>
+                            </li>
+                            <li class="bg-white">
+                                <span class="text-gray">PoW algorithm: CryptoNight Lite (v1)</span>
+                            </li>
+                            <li class="bg-white">
+                                <span class="text-gray">Krypton official ticker: ZOD</span>
+                            </li>
+                            <li class="bg-white">
+                                <span class="text-gray">New genesis block on 8th August 2019</span>
+                            </li>
+                            <li class="bg-white">
+                                <span class="text-gray">Diff retarget with every block</span>
+                            </li>
+                        </ul>
+                    </p>
+                    <p class="lead mb-0">Visit our pools and start mining:
+                        <a href="https://explorer.kryptonchain.org#pools" target="_blank">Krypton pools</a>
+                    </p>
+                    <p>
                     </p>
                 </div>
             </div><!-- End -->
 
-            <div class="row">
+            <div class=" row">
                 <div class="col-lg-7 mx-auto">
-
-                    <!-- Timeline -->
-                    <ul class="timeline">
-                        <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
-                            <div class="timeline-arrow"></div>
-                            <h2 class="h5 mb-0">Bitcointalk announcement, 4chan, official launch!</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>21 March, 2019</span>
-                            <p class="text-small mt-2 font-weight-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper, et elementum lorem ornare. Maecenas placerat facilisis mollis. Duis sagittis ligula in sodales vehicula....</p>
-                        </li>
-                        <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
-                            <div class="timeline-arrow"></div>
-                            <h2 class="h5 mb-0">Adjust minimum mixin values, remove dust.</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>5 April, 2019</span>
-                            <p class="text-small mt-2 font-weight-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper.</p>
-                            <p class="text-small mt-2 font-weight-light">Libero expedita explicabo eius fugiat quia aspernatur autem laudantium error architecto recusandae natus sapiente sit nam eaque, consectetur porro molestiae ipsam! Deleniti.</p>
-                        </li>
-                        <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
-                            <div class="timeline-arrow"></div>
-                            <h2 class="h5 mb-0">GUI wallet + integrations</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>18 August, 2019</span>
-                            <p class="text-small mt-2 font-weight-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper, et elementum lorem ornare. Maecenas placerat facilisis mollis. Duis sagittis ligula in sodales vehicula....</p>
-                        </li>
-                        <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
-                            <div class="timeline-arrow"></div>
-                            <h2 class="h5 mb-0">Genesis block...</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>8th August 2019</span>
-                            <p class="text-small mt-2 font-weight-light">The start of the journey 8th August 2019, genesis block created.</p>
-                        </li>
-                    </ul><!-- End -->
 
                 </div>
             </div>

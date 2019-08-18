@@ -171,46 +171,15 @@
             <!-- For demo purpose -->
             <div class="row text-center text-white mb-5">
                 <div class="col-lg-8 mx-auto">
-                    <h1 class="display-5">
-                        <img src="/img/logo2.png" width="150" class="d-inline-block align-top" alt="">
-                    </h1>
-                    <h2>Krypton</h2>
+                    <h2>Get Krypton Wallet</h2>
                     <p class="lead mb-0">Krypton is a community-driven, privacy first cryptocurrency with a main focus on decentralization, scalability and fungibility.</p>
-                    <p><strong>
-                            Current circulating supply {{ $current_supply }} <br />
-                            Total supply {{ $total_supply }}
-                        </strong>
+                    <p>
                     </p>
                 </div>
             </div><!-- End -->
 
             <div class="row">
                 <div class="col-lg-7 mx-auto">
-
-                    <!-- Timeline -->
-                    <ul class="timeline">
-                        <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
-                            <div class="timeline-arrow"></div>
-                            <h2 class="h5 mb-0">Bitcointalk announcement, 4chan, official launch!</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>21 March, 2019</span>
-                            <p class="text-small mt-2 font-weight-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper, et elementum lorem ornare. Maecenas placerat facilisis mollis. Duis sagittis ligula in sodales vehicula....</p>
-                        </li>
-                        <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
-                            <div class="timeline-arrow"></div>
-                            <h2 class="h5 mb-0">Adjust minimum mixin values, remove dust.</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>5 April, 2019</span>
-                            <p class="text-small mt-2 font-weight-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper.</p>
-                            <p class="text-small mt-2 font-weight-light">Libero expedita explicabo eius fugiat quia aspernatur autem laudantium error architecto recusandae natus sapiente sit nam eaque, consectetur porro molestiae ipsam! Deleniti.</p>
-                        </li>
-                        <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
-                            <div class="timeline-arrow"></div>
-                            <h2 class="h5 mb-0">GUI wallet + integrations</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>18 August, 2019</span>
-                            <p class="text-small mt-2 font-weight-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper, et elementum lorem ornare. Maecenas placerat facilisis mollis. Duis sagittis ligula in sodales vehicula....</p>
-                        </li>
-                        <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
-                            <div class="timeline-arrow"></div>
-                            <h2 class="h5 mb-0">Genesis block...</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>8th August 2019</span>
-                            <p class="text-small mt-2 font-weight-light">The start of the journey 8th August 2019, genesis block created.</p>
-                        </li>
-                    </ul><!-- End -->
 
                 </div>
             </div>
