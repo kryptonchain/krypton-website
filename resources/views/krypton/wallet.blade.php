@@ -114,6 +114,10 @@
             color: #999;
         }
 
+        iframe {
+            overflow: hidden;
+        }
+
 
         @media (min-width: 768px) {
             .bd-placeholder-img-lg {
@@ -173,10 +177,27 @@
                 <div class="col-lg-8 mx-auto">
                     <h2>Get Krypton Wallet</h2>
                     <p class="lead mb-0">Krypton is a community-driven, privacy first cryptocurrency with a main focus on decentralization, scalability and fungibility.</p>
-                    <p class="bg-white text-gray">Check the code on github <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/tag/0.5">here</a>.</p>
-                    <p class="bg-white text-gray">Download the latest Windows wallet <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/download/0.5/Krypton-GUI-0.5.zip.windows.zip">here</a>.</p>
-                    <p class="bg-white text-gray">Download the latest Linux/Ubuntu wallet <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/download/0.5/Krypton-GUI-0.5.ubuntu.tar.gz">here</a>.</p>
+
+                    <ul class="timeline">
+                        <li class="bg-white rounded ml-3 p-4 shadow">
+                            <p class="text-gray">Check the code on github
+                                <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/latest">here</a>.
+                            </p>
+                            <p class="text-gray">Download the latest Windows wallet
+                                <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/download/v0.51/Krypton-GUI-0.51.Windows.zip">here</a>.
+                            </p>
+                            <p class="text-gray">Download the latest Linux/Ubuntu wallet
+                                <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/download/v0.51/Krypton-GUI-0.51.Ubuntu.tar.gz">here</a>.
+                            </p>
+                        </li>
+                    </ul>
+
+                    <div class="timeline">
+                        <iframe id="vote" width='480' height='600' src='http://www.tricider.com/embed/?show=2nf8SMDnU07' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' scrolling='no'></iframe>
+                    </div>
                 </div>
+
+
             </div><!-- End -->
 
             <div class="row">

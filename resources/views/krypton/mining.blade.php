@@ -174,34 +174,28 @@
                     <h2>Mining</h2>
                     <p>
                         <ul class="timeline">
-                            <li class="bg-white">
-                                <span class="text-gray">Block Time: 60 seconds</span>
+                            <li class="bg-white rounded ml-3 p-4 shadow">
+                                <p class="text-gray">Block Time: <b>60 seconds</b></p>
+                                <p class="text-gray">Block Reward: <b>20 ZOD</b><br />(decreasing with every block, no halving)</p>
+                                <p class="text-gray">Max supply: <b>88 millions</b></p>
+                                <p class="text-gray">PoW algorithm: <b>CryptoNight Lite (v1)</b></p>
+                                <p class="text-gray">Krypton official ticker: <b>ZOD</b></p>
+                                <p class="text-gray">New genesis block on 8th August 2019</p>
+                                <p class="text-gray">Diff retarget with every block</p>
                             </li>
-                            <li class="bg-white">
-                                <span class="text-gray">Block Reward: 20 ZOD (decreasing with every block, no halving)</span>
-                            </li>
-                            <li class="bg-white">
-                                <span class="text-gray">Max supply: 88 millions</span>
-                            </li>
-                            <li class="bg-white">
-                                <span class="text-gray">PoW algorithm: CryptoNight Lite (v1)</span>
-                            </li>
-                            <li class="bg-white">
-                                <span class="text-gray">Krypton official ticker: ZOD</span>
-                            </li>
-                            <li class="bg-white">
-                                <span class="text-gray">New genesis block on 8th August 2019</span>
-                            </li>
-                            <li class="bg-white">
-                                <span class="text-gray">Diff retarget with every block</span>
+                        </ul>
+
+                        <ul class="timeline">
+                            <li class="bg-white rounded ml-3 p-4 shadow">
+                                <p class="text-gray lead mb-0">Visit our pools and start mining:
+                                    <a href="https://explorer.kryptonchain.org#pools" target="_blank">Krypton pools</a>
+                                </p>
                             </li>
                         </ul>
                     </p>
-                    <p class="lead mb-0">Visit our pools and start mining:
-                        <a href="https://explorer.kryptonchain.org#pools" target="_blank">Krypton pools</a>
-                    </p>
-                    <p>
-                    </p>
+
+
+
                 </div>
             </div><!-- End -->
 

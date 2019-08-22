@@ -114,7 +114,6 @@
             color: #999;
         }
 
-
         @media (min-width: 768px) {
             .bd-placeholder-img-lg {
                 font-size: 3.5rem;
@@ -186,7 +185,12 @@
                     <ul class="timeline">
                         <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
                             <div class="timeline-arrow"></div>
-                            <h2 class="h5 mb-0">Bitcointalk announcement, 4chan, official launch!</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>9:00PM UTC - 18t August, 2019</span>
+                            <h2 class="h5 mb-0">Krypton GUI wallet v0.51 released + discord</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>22th August, 2019</span>
+                            <p class="text-small mt-2 font-weight-light">New wallet release + (<a href="/wallet">community voting</a>). We looking for Discord admins!!!</p>
+                        </li>
+                        <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
+                            <div class="timeline-arrow"></div>
+                            <h2 class="h5 mb-0">Bitcointalk announcement, 4chan, official launch!</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>9:00PM UTC - 18th August, 2019</span>
                             <p class="text-small mt-2 font-weight-light">Officially launched and now open to public.(<a href="https://bitcointalk.org/index.php?topic=5176752.msg52199896" target="_blank">BCT announcement</a>). It's a community focused coin so every help, ideas or advice are welcome!</p>
                         </li>
                         <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
@@ -197,9 +201,9 @@
                         <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
                             <div class="timeline-arrow"></div>
                             <h2 class="h5 mb-0">GUI wallet + integrations</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>16 August, 2019</span>
-                            <p class="text-small mt-2 font-weight-light">Check the code on github <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/tag/0.5">here</a>.</p>
-                            <p class="text-small mt-2 font-weight-light">Download the latest Windows wallet <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/download/0.5/Krypton-GUI-0.5.zip.windows.zip">here</a>.</p>
-                            <p class="text-small mt-2 font-weight-light">Download the latest Linux/Ubuntu wallet <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/download/0.5/Krypton-GUI-0.5.ubuntu.tar.gz">here</a>.</p>
+                            <p class="text-small mt-2 font-weight-light">Check the code on github <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/latest">here</a>.</p>
+                            <p class="text-small mt-2 font-weight-light">Download the latest Windows wallet <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/download/v0.51/Krypton-GUI-0.51.Windows.zip">here</a>.</p>
+                            <p class="text-small mt-2 font-weight-light">Download the latest Linux/Ubuntu wallet <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/download/v0.51/Krypton-GUI-0.51.Ubuntu.tar.gz">here</a>.</p>
                         </li>
                         <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
                             <div class="timeline-arrow"></div>
@@ -222,6 +226,7 @@
     <script src="//code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="//stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
 </body>
 
 </html>
