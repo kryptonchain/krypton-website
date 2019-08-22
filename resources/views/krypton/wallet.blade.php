@@ -193,7 +193,7 @@
                     </ul>
 
                     <div class="timeline">
-                        <iframe id="vote" width='480' height='600' src='http://www.tricider.com/embed/?show=2nf8SMDnU07' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' scrolling='no'></iframe>
+                        <iframe id="vote" width='480' height='600' src='https://www.tricider.com/embed/?show=2nf8SMDnU07' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' scrolling='no'></iframe>
                     </div>
                 </div>
 
