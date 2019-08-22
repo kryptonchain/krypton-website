@@ -118,6 +118,11 @@
             overflow: hidden;
         }
 
+        @media (max-width: 768px) {
+            iframe {
+                display: none;
+            }
+        }
 
         @media (min-width: 768px) {
             .bd-placeholder-img-lg {
