@@ -190,9 +190,14 @@
                                 <p class="text-gray lead mb-0">Visit our pools and start mining:
                                     <a href="https://explorer.kryptonchain.org#pools" target="_blank">Krypton pools</a>
                                 </p>
+
+                                <p>
+                                    <iframe src="https://www.cryptunit.com/widgets/2.php?coin=135&small=false&transparent=false&black=true&hr=10000" height="160" width="100%" frameBorder="0" style="overflow:hidden;" scrolling="no"></iframe>
+                                </p>
                             </li>
                         </ul>
                     </p>
+
 
 
 
