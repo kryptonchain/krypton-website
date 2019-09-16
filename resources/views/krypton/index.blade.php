@@ -194,17 +194,27 @@
                     <ul class="timeline">
                         <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
                             <div class="timeline-arrow"></div>
+                            <h2 class="h5 mb-0">Finexbox trading is open</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>1th September, 2019</span>
+                            <p class="text-small mt-2 font-weight-light"><a href="https://www.finexbox.com/market/pair/ZOD-BTC.html" target="_blank">Finexbox<a> - ZOD/BTC trading pair is now open. Happy trading.</p>
+                        </li>
+                        <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
+                            <div class="timeline-arrow"></div>
+                            <h2 class="h5 mb-0">Find us on CoinGecko</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>29th August, 2019</span>
+                            <p class="text-small mt-2 font-weight-light"><a href="https://www.coingecko.com/en/coins/krypton" target="_blank">CoinGecko<a> - price information, exchanges, trading volume.</p>
+                        </li>
+                        <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
+                            <div class="timeline-arrow"></div>
                             <h2 class="h5 mb-0">Krypton GUI wallet v0.51 released + discord</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>22th August, 2019</span>
                             <p class="text-small mt-2 font-weight-light">New wallet release + (<a href="/wallet">community voting</a>). We looking for Discord admins!!!</p>
                         </li>
                         <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
                             <div class="timeline-arrow"></div>
-                            <h2 class="h5 mb-0">Bitcointalk announcement, 4chan, official launch!</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>9:00PM UTC - 18th August, 2019</span>
+                            <h2 class="h5 mb-0">Bitcointalk announcement, 4chan, official launch</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>9:00PM UTC - 18th August, 2019</span>
                             <p class="text-small mt-2 font-weight-light">Officially launched and now open to public.(<a href="https://bitcointalk.org/index.php?topic=5176752.msg52199896" target="_blank">BCT announcement</a>). It's a community focused coin so every help, ideas or advice are welcome!</p>
                         </li>
                         <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
                             <div class="timeline-arrow"></div>
-                            <h2 class="h5 mb-0">Adjust minimum mixin values, remove dust.</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>18 August, 2019</span>
+                            <h2 class="h5 mb-0">Adjust minimum mixin values, remove dust</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>18 August, 2019</span>
                             <p class="text-small mt-2 font-weight-light">Reached block 5000, adjusted some parameters with a soft fork at block height 5000.</p>
                         </li>
                         <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
