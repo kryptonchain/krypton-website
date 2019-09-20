@@ -29,26 +29,10 @@
             <!-- For demo purpose -->
             <div class="row text-center text-white mb-5">
                 <div class="col-lg-8 mx-auto">
-                    <h2>Get Krypton Wallet</h2>
+                    <h2>Reach out to us</h2>
                     <p class="lead mb-0">Krypton is a community-driven, privacy first cryptocurrency with a main focus on decentralization, scalability and fungibility.</p>
 
-                    <ul class="timeline">
-                        <li class="bg-white rounded ml-3 p-4 shadow">
-                            <p class="text-gray">Check the code on github
-                                <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/latest">here</a>.
-                            </p>
-                            <p class="text-gray">Download the latest Windows wallet
-                                <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/download/v0.51/Krypton-GUI-0.51.Windows.zip">here</a>.
-                            </p>
-                            <p class="text-gray">Download the latest Linux/Ubuntu wallet
-                                <a href="https://github.com/kryptonchain/krypton-wallet-gui/releases/download/v0.51/Krypton-GUI-0.51.Ubuntu.tar.gz">here</a>.
-                            </p>
-                        </li>
-                    </ul>
-
-                    <div class="timeline">
-                        <iframe id="vote" width='480' height='600' src='https://www.tricider.com/embed/?show=2nf8SMDnU07' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' scrolling='no'></iframe>
-                    </div>
+                    Exchanges
                 </div>
 
 

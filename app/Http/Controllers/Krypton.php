@@ -22,6 +22,13 @@ class Krypton extends Controller
         );
     }
 
+    public function wallet()
+    {
+        return view('krypton.wallet')->with(
+            []
+        );
+    }
+
     public function mining()
     {
         return view('krypton.mining')->with(
@@ -29,9 +36,16 @@ class Krypton extends Controller
         );
     }
 
-    public function wallet()
+    public function exchanges()
     {
-        return view('krypton.wallet')->with(
+        return view('krypton.exchanges')->with(
+            []
+        );
+    }
+
+    public function community()
+    {
+        return view('krypton.community')->with(
             []
         );
     }
