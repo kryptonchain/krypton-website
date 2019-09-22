@@ -24,10 +24,12 @@
                     <a class="nav-link" href="{{ route('krypton.community') }}">
                         Community
                         <i class="fab fa-telegram-plane" style="color: #0088CC;"></i>
+                        <i class="fab fa-twitter" style="color: #0088CC;"></i>
+                        <i class="fab fa-discord" style="color: #0088CC;"></i>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://explorer.kryptonchain.org">Block Explorer</a>
+                    <a class="nav-link" href="https://explorer.kryptonchain.org" target="_blank">Block Explorer</a>
                 </li>
             </ul>
 

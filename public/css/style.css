@@ -109,6 +109,10 @@ body {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
   }
+
+  ul.navbar-nav li:last-child {
+    margin-left: 60px !important;
+  }
 }
 
 .important-box {

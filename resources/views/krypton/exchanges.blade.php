@@ -32,7 +32,19 @@
                     <h2>List of known exchanges to trade Krypton</h2>
                     <p class="lead mb-0">Krypton is a community-driven, privacy first cryptocurrency with a main focus on decentralization, scalability and fungibility.</p>
 
-                    Exchanges
+                    <div class="important-box">
+                        <div>
+                            <a href="https://www.finexbox.com/market/pair/ZOD-BTC.html" target="_blank"><i class="fa fa-money"></i> Finexbox (ZOD/BTC pair)</a>
+                        </div>
+                        <div>
+                            <a href="https://international.indoex.io" target="_blank"><i class="fa fa-money"></i> Indoex (9 trading pairs)</a>
+                        </div>
+
+                        <script type="text/javascript" src="https://unpkg.com/@coinpaprika/widget-currency/dist/widget.min.js"></script>
+                        <div class="coinpaprika-currency-widget cp-widget__night-mode" data-primary-currency="usd" data-currency="zod-krypton" data-modules='["market_details","chart"]' data-update-active="false"></div>
+                    </div>
+
+
                 </div>
 
 
