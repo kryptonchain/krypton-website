@@ -41,8 +41,8 @@
                     <div id="slideshow">
                         <!-- [PUT YOUR SLIDES IN HERE] -->
                         <div id="slides">
-                            <img src="img/krypton-card-compressed.png" data-caption="Krypton App" />
-                            <img src="img/krypton-card-front-compressed.png" data-caption="WOW" />
+                            <img src="img/krypton-card-compressed.png" data-caption="Krypton Card" />
+                            <img src="img/krypton-card-front-compressed.png" data-caption="For illustration purpose only" />
                         </div>
 
                         <!-- [CONTROLS + CAPTION] -->
@@ -50,7 +50,7 @@
                         <div id="slide-right">&gt;</div>
                     </div>
 
-                    <iframe class="mj-w-res-iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://app.mailjet.com/widget/iframe/4pgj/j1M" width="100%"></iframe>
+                    <iframe class="mj-w-res-iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://app.mailjet.com/widget/iframe/4pgj/j3l" width="100%"></iframe>
 
                     <h3>Whitepaper</h3>
                     We encourage everyone to read the original Cryptonote Whitepaper and the Krypton Lightpaper. <br />
