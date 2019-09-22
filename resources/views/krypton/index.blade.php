@@ -41,8 +41,8 @@
                     <div id="slideshow">
                         <!-- [PUT YOUR SLIDES IN HERE] -->
                         <div id="slides">
-                            <img src="img/krypton-card.png" data-caption="Krypton App" />
-                            <img src="img/krypton-card-front.png" data-caption="WOW" />
+                            <img src="img/krypton-card-compressed.png" data-caption="Krypton App" />
+                            <img src="img/krypton-card-front-compressed.png" data-caption="WOW" />
                         </div>
 
                         <!-- [CONTROLS + CAPTION] -->
